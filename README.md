@@ -13,4 +13,7 @@
 - 11 Crear el proyecto en python Django --> django-admin startproject cbtis1285J1248 .
 - 12 Ejecutar el servidor --> python manage.py runserver
 - 13 Realizar migracion --> python manage.py migrate
-- 14 vuelve a ejecutar el servidor 
+- 14 vuelve a ejecutar el servidor
+
+- ![image](https://github.com/user-attachments/assets/cc7d580c-e588-49b4-ad8f-a7c53b00e1d7)
+
